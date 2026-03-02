@@ -2,4 +2,6 @@
 
 Contexto do Usuário
 
-2️⃣ Contexto de Acompanhamento Nutricional (Domínio Principal ⭐)
+Contexto de Acompanhamento Nutricional (Domínio Principal ⭐)
+
+Contexto de Metas
