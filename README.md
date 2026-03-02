@@ -17,9 +17,11 @@ The system is designed to evolve from a modular monolith to microservices if nee
 
 ## 🏗️ Architecture
 
-The application follows:\
+The application follows:
+
 ✅ Domain-Driven Design (DDD)\
-✅ Modular Architecture
+✅ Modular Architecture\
+✅ Clean Code principles
 
 ## Domain-Driven Design
 
