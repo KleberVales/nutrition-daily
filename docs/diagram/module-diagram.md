@@ -18,5 +18,5 @@ nutrition-daily
  │    ├── infrastructure
  │    └── interfaces
  │
- └── shared
+ └── view
 ```
