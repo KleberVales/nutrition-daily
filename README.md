@@ -1,4 +1,4 @@
-# nutrition-daily
+# 🥗 Nutrition Daily
 
 ## Domain-Driven Design
 
