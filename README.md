@@ -2,8 +2,6 @@
 
 ## Domain-Driven Design
 
-User Context
-
-Nutritional Monitoring Context (Main Domain ⭐)
-
-Goals Context
+1. User Context
+2. Nutritional Monitoring Context (Main Domain ⭐)
+3. Goals Context
