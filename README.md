@@ -11,6 +11,7 @@ Nutrition Daily helps users:
 - Register consumed foods
 - Monitor calories and macronutrients
 - Define nutrition goals
+- Analyze eating patterns
 
 ## Domain-Driven Design
 
