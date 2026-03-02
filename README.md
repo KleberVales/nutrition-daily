@@ -7,6 +7,7 @@ This project applies DDD (Domain-Driven Design) concepts and modern backend arch
 ## 🚀 Project Purpose
 
 Nutrition Daily helps users:
+- Track daily meals
 
 ## Domain-Driven Design
 
