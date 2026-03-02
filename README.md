@@ -41,6 +41,9 @@ Redes: [LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://gi
 
 **Kleber Vales**
 
+Java & Spring Software Engineer | Cloud-Native & Event-Driven Architectures
+
+
 
 
 
