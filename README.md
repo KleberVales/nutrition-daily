@@ -1,7 +1,7 @@
 # nutrition-daily
 
-Contexto do Usuário
+User Context
 
-Contexto de Acompanhamento Nutricional (Domínio Principal ⭐)
+Nutritional Monitoring Context (Main Domain ⭐)
 
-Contexto de Metas
+Goals Context
