@@ -1,6 +1,5 @@
 # 🥗 Nutrition Daily
 
-✅ RESTful API\
 ✅ Event-driven communication (future evolution)
 
 ## Domain-Driven Design
