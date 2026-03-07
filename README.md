@@ -1,8 +1,6 @@
 # 🥗 Nutrition Daily
 
 
-## 🏗️ Architecture
-
 The application follows:
 
 ✅ Domain-Driven Design (DDD)\
