@@ -1,6 +1,5 @@
 # 🥗 Nutrition Daily
 
-- Analyze eating patterns
 
 The system is designed to evolve from a modular monolith to microservices if needed.
 
