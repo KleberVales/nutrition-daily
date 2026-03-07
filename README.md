@@ -1,7 +1,6 @@
 # 🥗 Nutrition Daily
 
 
-## 🚀 Project Purpose
 
 Nutrition Daily helps users:
 - Track daily meals
