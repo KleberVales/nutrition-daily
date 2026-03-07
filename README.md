@@ -1,8 +1,5 @@
 # 🥗 Nutrition Daily
 
-
-
-- Track daily meals
 - Register consumed foods
 - Monitor calories and macronutrients
 - Define nutrition goals
