@@ -1,6 +1,5 @@
 # 🥗 Nutrition Daily
 
-✅ Clean Code principles\
 ✅ RESTful API\
 ✅ Event-driven communication (future evolution)
 
