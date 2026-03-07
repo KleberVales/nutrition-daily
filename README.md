@@ -1,7 +1,5 @@
 # 🥗 Nutrition Daily
 
-
-✅ Modular Architecture\
 ✅ Clean Code principles\
 ✅ RESTful API\
 ✅ Event-driven communication (future evolution)
