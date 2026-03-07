@@ -1,6 +1,5 @@
 # 🥗 Nutrition Daily
 
-- Monitor calories and macronutrients
 - Define nutrition goals
 - Analyze eating patterns
 
