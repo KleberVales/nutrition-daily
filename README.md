@@ -1,8 +1,6 @@
 # 🥗 Nutrition Daily
 
 
-The system is designed to evolve from a modular monolith to microservices if needed.
-
 ## 🏗️ Architecture
 
 The application follows:
