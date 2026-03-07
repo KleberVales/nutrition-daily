@@ -1,6 +1,5 @@
 # 🥗 Nutrition Daily
 
-3. Goals Context
 
 ---
 
