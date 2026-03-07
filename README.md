@@ -1,6 +1,5 @@
 # 🥗 Nutrition Daily
 
-✅ Event-driven communication (future evolution)
 
 ## Domain-Driven Design
 
