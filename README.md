@@ -28,7 +28,7 @@ The application follows:
 ✅ Modular Architecture
 ✅ Clean Code principles
 ✅ RESTful API
-
+✅ Event-driven communication (future evolution)
 
 ---
 
