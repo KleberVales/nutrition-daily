@@ -26,6 +26,7 @@ The application follows:
 
 ✅ Domain-Driven Design (DDD)
 ✅ Modular Architecture
+✅ Clean Code principles
 
 
 ---
