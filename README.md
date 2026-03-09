@@ -34,6 +34,8 @@ The application follows:
 
 Suggested Bounded Contexts
 
+- User Management
+
 ## ✉️ Contact
 
 Email: klebervales.dev@gmail.com
