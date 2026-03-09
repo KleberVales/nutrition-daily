@@ -12,6 +12,7 @@ Nutrition Daily helps users:
 
 - Track daily meals
 - Register consumed foods
+- Monitor calories and macronutrients
 
 
 ---
