@@ -22,6 +22,8 @@ The system is designed to evolve from a modular monolith to microservices if nee
 
 ## 🏗️ Architecture
 
+The application follows:
+
 
 ---
 
