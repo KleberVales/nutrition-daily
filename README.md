@@ -25,6 +25,7 @@ The system is designed to evolve from a modular monolith to microservices if nee
 The application follows:
 
 ✅ Domain-Driven Design (DDD)
+✅ Modular Architecture
 
 
 ---
