@@ -32,6 +32,8 @@ The application follows:
 
 ---
 
+Suggested Bounded Contexts
+
 ## ✉️ Contact
 
 Email: klebervales.dev@gmail.com
