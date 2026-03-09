@@ -46,5 +46,3 @@ Redes: [LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://gi
 Java & Spring Software Engineer
 
 Cloud | DevOps | Microservices | Git/Github | Docker | Kubernetes | Generative AI | Event-driven Architecture
-
-🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
