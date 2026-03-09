@@ -4,6 +4,10 @@ A modular Java application designed to help users organize and track their daily
 
 This project applies DDD (Domain-Driven Design) concepts and modern backend architecture principles to build a scalable and maintainable system.
 
+---
+
+🚀 Project Purpose
+
 
 ---
 
