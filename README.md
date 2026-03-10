@@ -37,4 +37,3 @@ Suggested Bounded Contexts
 - User Management
 - Meal Planning
 - Food Catalog
-- Nutrition Tracking
