@@ -10,4 +10,3 @@ This project applies DDD (Domain-Driven Design) concepts and modern backend arch
 
 Nutrition Daily helps users:
 
-- Track daily meals
