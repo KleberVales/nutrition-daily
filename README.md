@@ -33,5 +33,3 @@ The application follows:
 ---
 
 Suggested Bounded Contexts
-
-- User Management
