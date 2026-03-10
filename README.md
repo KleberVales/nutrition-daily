@@ -31,5 +31,3 @@ The application follows:
 ✅ Event-driven communication (future evolution)
 
 ---
-
-Suggested Bounded Contexts
