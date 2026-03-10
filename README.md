@@ -15,8 +15,3 @@ Nutrition Daily helps users:
 - Monitor calories and macronutrients
 - Define nutrition goals
 - Analyze eating patterns
-
-The system is designed to evolve from a modular monolith to microservices if needed.
-
----
-
