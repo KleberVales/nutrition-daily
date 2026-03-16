@@ -6,5 +6,5 @@
 
 Java & Spring Software Engineer
 
-Cloud | DevOps | Microservices | Docker |
+Cloud | DevOps | Microservices | Docker | Kubernetes |
 
