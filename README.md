@@ -13,6 +13,8 @@ Nutrition Daily helps users:
 - Define nutrition goals
 - Analyze eating patterns
 
+The system is designed to evolve from a modular monolith to microservices if needed.
+
 ---
 
 **Klebler Vales**
