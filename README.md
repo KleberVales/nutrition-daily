@@ -70,7 +70,7 @@ The application follows:
 com.nutritiondaily
 
 ├── user
-
+│   ├── domain
 
 ```
 
