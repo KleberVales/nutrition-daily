@@ -35,6 +35,8 @@ The application follows:
 
 ## 🧠 Domain Model 
 
+**Core Entities**
+
 ---
 
 **Klebler Vales**
