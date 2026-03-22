@@ -38,6 +38,7 @@ The application follows:
 **Core Entities**
 
 - User
+- Meal
 
 ---
 
