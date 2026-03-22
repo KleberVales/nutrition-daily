@@ -65,6 +65,12 @@ The application follows:
 
 ## 📂 Project Structure (DDD Style)
 
+```text
+
+com.nutritiondaily
+
+```
+
 ---
 
 **Klebler Vales**
