@@ -46,6 +46,7 @@ The application follows:
 **Value Objects**
 
 - Calories
+- Macronutrients
 
 ---
 
