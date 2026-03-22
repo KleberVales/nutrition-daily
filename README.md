@@ -50,6 +50,8 @@ The application follows:
 - MealType
 - Quantity
 
+---
+
 ## 🛠️ Tech Stack
 
 - Java 21
@@ -58,6 +60,10 @@ The application follows:
 - PostgreSQL
 - Docker
 - Gradle 
+
+---
+
+## 📂 Project Structure (DDD Style)
 
 ---
 
