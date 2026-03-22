@@ -69,6 +69,9 @@ The application follows:
 
 com.nutritiondaily
 
+├── user
+
+
 ```
 
 ---
