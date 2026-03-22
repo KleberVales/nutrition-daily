@@ -53,6 +53,7 @@ The application follows:
 ## 🛠️ Tech Stack
 
 - Java 21
+- Spring Boot
 
 ---
 
