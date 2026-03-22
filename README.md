@@ -75,8 +75,7 @@ com.nutritiondaily
 │   ├── infrastructure
 │   └── api
 │
-
-
+├── meal
 
 ```
 
