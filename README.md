@@ -39,6 +39,7 @@ The application follows:
 
 - User
 - Meal
+- Food
 
 ---
 
