@@ -55,8 +55,9 @@ The application follows:
 - Java 21
 - Spring Boot
 - Spring Data JPA
-- PostgreSQL / MySQL
+- PostgreSQL
 - Docker
+- Gradle 
 
 ---
 
