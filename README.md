@@ -72,7 +72,7 @@ com.nutritiondaily
 ├── user
 │   ├── domain
 │   ├── application
-
+│   ├── infrastructure
 
 ```
 
