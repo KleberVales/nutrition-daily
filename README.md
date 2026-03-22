@@ -45,6 +45,8 @@ The application follows:
 
 **Value Objects**
 
+- Calories
+
 ---
 
 **Klebler Vales**
