@@ -56,6 +56,7 @@ The application follows:
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL / MySQL
+- Docker
 
 ---
 
