@@ -28,6 +28,7 @@ The application follows:
 **Suggested Bounded Contexts**
 
 - User Management
+- Meal Planning
 
 ---
 
