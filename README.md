@@ -41,6 +41,7 @@ The application follows:
 - Meal
 - Food
 - NutritionGoal
+- DailyLog
 
 ---
 
