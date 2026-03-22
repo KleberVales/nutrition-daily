@@ -31,6 +31,7 @@ The application follows:
 - Meal Planning
 - Food Catalog
 - Nutrition Tracking
+- Reports & Analytics
 
 ---
 
