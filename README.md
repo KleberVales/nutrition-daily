@@ -48,6 +48,7 @@ The application follows:
 - Calories
 - Macronutrients
 - MealType
+- Quantity
 
 ---
 
