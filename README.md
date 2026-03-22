@@ -43,6 +43,8 @@ The application follows:
 - NutritionGoal
 - DailyLog
 
+**Value Objects**
+
 ---
 
 **Klebler Vales**
