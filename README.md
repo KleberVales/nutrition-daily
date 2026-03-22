@@ -50,6 +50,8 @@ The application follows:
 - MealType
 - Quantity
 
+## 🛠️ Tech Stack
+
 ---
 
 **Klebler Vales**
