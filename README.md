@@ -33,6 +33,8 @@ The application follows:
 - Nutrition Tracking
 - Reports & Analytics
 
+## 🧠 Domain Model 
+
 ---
 
 **Klebler Vales**
