@@ -37,6 +37,8 @@ The application follows:
 
 **Core Entities**
 
+- User
+
 ---
 
 **Klebler Vales**
