@@ -83,6 +83,8 @@ com.nutritiondaily
 │
 ├── food
 │   ├── domain
+│   ├── application
+
 
 
 ```
