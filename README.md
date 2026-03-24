@@ -86,6 +86,7 @@ com.nutritiondaily
 │   ├── application
 │   ├── infrastructure
 │   └── api
+│
 
 ```
 
