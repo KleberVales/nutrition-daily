@@ -82,10 +82,7 @@ com.nutritiondaily
 │   └── api
 │
 ├── food
-
-
-
-
+│   ├── domain
 
 
 ```
