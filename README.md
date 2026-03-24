@@ -95,6 +95,8 @@ com.nutritiondaily
 
 ## 🔄 Example Flow
 
+1. User registers
+
 ---
 
 **Klebler Vales**
