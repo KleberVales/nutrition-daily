@@ -78,6 +78,8 @@ com.nutritiondaily
 ├── meal
 │   ├── domain
 │   ├── application
+│   ├── infrastructure
+
 
 
 ```
