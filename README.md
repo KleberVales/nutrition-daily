@@ -103,6 +103,8 @@ com.nutritiondaily
 
 ## 📊 Future Improvements
 
+- Authentication with JWT
+
 ---
 
 **Klebler Vales**
