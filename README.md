@@ -99,6 +99,7 @@ com.nutritiondaily
 2. User creates a nutrition goal
 3. User logs meals during the day
 4. System calculates total calories and macros
+5. Reports module generates daily/weekly summaries
 
 ---
 
