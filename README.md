@@ -116,6 +116,12 @@ com.nutritiondaily
 
 ## 🧪 Running the Project
 
+```bash
+
+# Clone the repository
+
+```
+
 **Klebler Vales**
 
 Java & Spring Software Engineer
