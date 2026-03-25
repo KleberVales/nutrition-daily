@@ -124,6 +124,9 @@ git clone https://github.com/your-username/nutrition-daily.git
 # Build the project
 ./gradlew build
 
+# Run the application
+
+
 ```
 
 **Klebler Vales**
