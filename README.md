@@ -139,6 +139,7 @@ git clone https://github.com/your-username/nutrition-daily.git
 - Calorie calculation
 - Dashboard
 - Reports
+- Docker deployment
 
 ---
 
