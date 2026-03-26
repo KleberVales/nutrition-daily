@@ -133,6 +133,8 @@ git clone https://github.com/your-username/nutrition-daily.git
 
 ## 📌 Roadmap
 
+- User CRUD
+
 ---
 
 **Klebler Vales**
