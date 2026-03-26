@@ -138,6 +138,7 @@ git clone https://github.com/your-username/nutrition-daily.git
 - Meal tracking
 - Calorie calculation
 - Dashboard
+- Reports
 
 ---
 
