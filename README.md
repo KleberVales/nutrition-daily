@@ -148,5 +148,3 @@ git clone https://github.com/your-username/nutrition-daily.git
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-
-**Klebler Vales**
