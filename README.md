@@ -153,7 +153,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Java & Spring Software Engineer
 
-Cloud | DevOps | Microservices | Docker | Kubernetes | Git/Github | Generative AI | Event-driven Architecture
 
 
 
