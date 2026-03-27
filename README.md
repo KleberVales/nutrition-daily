@@ -150,9 +150,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ---
 
 **Klebler Vales**
-
-Java & Spring Software Engineer
-
-
-
-
