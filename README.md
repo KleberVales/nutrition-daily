@@ -34,8 +34,6 @@ The application follows:
 - Reports & Analytics
 
 
-
-- User
 - Meal
 - Food
 - NutritionGoal
