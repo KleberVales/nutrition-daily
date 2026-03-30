@@ -88,7 +88,5 @@ com.nutritiondaily
 
 ## 🧪 Running the Project
 
-```bash
 
-```
 
