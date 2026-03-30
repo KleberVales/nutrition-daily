@@ -35,8 +35,6 @@ The application follows:
 
 ---
 
----
-
 ## 📂 Project Structure (DDD Style)
 
 ```text
