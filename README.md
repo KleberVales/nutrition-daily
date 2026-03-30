@@ -81,7 +81,6 @@ com.nutritiondaily
 - Role-based access control
 - Integration with wearable devices
 - AI-based nutrition recommendations
-- Migration to microservices architecture
 
 ---
 
