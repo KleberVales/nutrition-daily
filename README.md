@@ -33,8 +33,6 @@ The application follows:
 - Nutrition Tracking
 - Reports & Analytics
 
-
-- Meal
 - Food
 - NutritionGoal
 - DailyLog
