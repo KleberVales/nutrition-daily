@@ -75,7 +75,6 @@ com.nutritiondaily
 
 --- 
 
-## 📊 Future Improvements
 
 ---
 
