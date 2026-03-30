@@ -78,7 +78,6 @@ com.nutritiondaily
 ## 📊 Future Improvements
 
 - Authentication with JWT
-- Role-based access control
 
 ---
 
