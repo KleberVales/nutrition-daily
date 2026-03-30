@@ -35,8 +35,6 @@ The application follows:
 
 ---
 
-- Gradle 
-
 ---
 
 ## 📂 Project Structure (DDD Style)
