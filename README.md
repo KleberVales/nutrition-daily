@@ -79,7 +79,6 @@ com.nutritiondaily
 
 - Authentication with JWT
 - Role-based access control
-- Integration with wearable devices
 
 ---
 
