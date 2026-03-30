@@ -34,7 +34,6 @@ The application follows:
 - Reports & Analytics
 
 
-**Core Entities**
 
 - User
 - Meal
