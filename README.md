@@ -107,7 +107,6 @@ git clone https://github.com/your-username/nutrition-daily.git
 
 - User CRUD
 - Food registration
-- Meal tracking
 
 ---
 
