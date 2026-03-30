@@ -94,8 +94,6 @@ com.nutritiondaily
 git clone https://github.com/your-username/nutrition-daily.git
 
 # Build the project
-./gradlew build
-
 
 ```
 
