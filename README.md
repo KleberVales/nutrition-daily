@@ -35,7 +35,6 @@ The application follows:
 
 ---
 
-- Spring Data JPA
 - PostgreSQL
 - Docker
 - Gradle 
