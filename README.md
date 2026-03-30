@@ -33,10 +33,7 @@ The application follows:
 - Nutrition Tracking
 - Reports & Analytics
 
-
 ---
-
-## 🛠️ Tech Stack
 
 - Java 21
 - Spring Boot
