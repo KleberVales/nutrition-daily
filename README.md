@@ -33,7 +33,6 @@ The application follows:
 - Nutrition Tracking
 - Reports & Analytics
 
-**Value Objects**
 
 - Calories
 - Macronutrients
