@@ -90,7 +90,5 @@ com.nutritiondaily
 
 ```bash
 
-# Clone the repository
-
 ```
 
