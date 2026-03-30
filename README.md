@@ -35,7 +35,6 @@ The application follows:
 
 ---
 
-- PostgreSQL
 - Docker
 - Gradle 
 
