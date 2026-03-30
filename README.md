@@ -33,7 +33,6 @@ The application follows:
 - Nutrition Tracking
 - Reports & Analytics
 
-## 🧠 Domain Model 
 
 **Core Entities**
 
