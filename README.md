@@ -35,7 +35,6 @@ The application follows:
 
 ---
 
-- Docker
 - Gradle 
 
 ---
