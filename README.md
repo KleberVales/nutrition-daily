@@ -64,6 +64,3 @@ com.nutritiondaily
 ```
 
 ---
-
-## 🔄 Example Flow
-
