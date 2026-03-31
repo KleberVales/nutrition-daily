@@ -70,4 +70,3 @@ com.nutritiondaily
 1. User registers
 2. User creates a nutrition goal
 3. User logs meals during the day
-4. System calculates total calories and macros
