@@ -73,5 +73,4 @@ com.nutritiondaily
 4. System calculates total calories and macros
 5. Reports module generates daily/weekly summaries
 
---- 
 
