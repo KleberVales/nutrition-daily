@@ -68,4 +68,3 @@ com.nutritiondaily
 ## 🔄 Example Flow
 
 1. User registers
-2. User creates a nutrition goal
