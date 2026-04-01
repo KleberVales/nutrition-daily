@@ -27,8 +27,6 @@ The application follows:
 
 **Suggested Bounded Contexts**
 
-- User Management
-
 ---
 
 ## 📂 Project Structure (DDD Style)
