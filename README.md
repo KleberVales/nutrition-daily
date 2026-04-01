@@ -30,7 +30,6 @@ The application follows:
 - User Management
 - Meal Planning
 - Food Catalog
-- Nutrition Tracking
 
 ---
 
