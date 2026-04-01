@@ -25,8 +25,6 @@ The application follows:
 ✅ RESTful API\
 ✅ Event-driven communication (future evolution)
 
-**Suggested Bounded Contexts**
-
 ---
 
 ## 📂 Project Structure (DDD Style)
