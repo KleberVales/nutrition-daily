@@ -13,11 +13,6 @@ Nutrition Daily helps users:
 - Define nutrition goals
 - Analyze eating patterns
 
-
-
-
-
-
 ---
 
 ## 📂 Project Structure (DDD Style)
