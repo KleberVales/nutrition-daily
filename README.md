@@ -14,7 +14,6 @@ Nutrition Daily helps users:
 - Analyze eating patterns
 
 
-
 ## 🏗️ Architecture
 
 The application follows:
