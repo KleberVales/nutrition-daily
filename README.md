@@ -18,7 +18,6 @@ Nutrition Daily helps users:
 
 The application follows:
 
-✅ Domain-Driven Design (DDD)\
 
 
 ---
