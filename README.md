@@ -16,7 +16,6 @@ Nutrition Daily helps users:
 
 ## 🏗️ Architecture
 
-The application follows:
 
 
 
