@@ -63,7 +63,6 @@ Project: [E-commerce platform](https://github.com/KleberVales/e-commerce-platfor
 🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
 
 🎓 **Bachelor's Degree in Computer Science**  
-🎓 **MBA**
 
 
 
