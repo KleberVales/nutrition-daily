@@ -60,7 +60,7 @@ Project: [E-commerce platform](https://github.com/KleberVales/e-commerce-platfor
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
 🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
-🏆 **Oracle Cloud Infrastructure**
+🏆 **Oracle Cloud**
 
 
 
