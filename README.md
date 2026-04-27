@@ -56,4 +56,4 @@ Cloud | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Even
 
 Project: [E-commerce platform](https://github.com/KleberVales/e-commerce-platform) | [Nutrition daily](https://github.com/KleberVales/nutrition-daily)
 
-🏆 **Oracle Certified Associate**  
+🏆 **Oracle**  
