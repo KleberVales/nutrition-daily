@@ -58,4 +58,4 @@ Project: [E-commerce platform](https://github.com/KleberVales/e-commerce-platfor
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
-🏆 **Scrum Fundamentals**  
+🏆 **Scrum**  
