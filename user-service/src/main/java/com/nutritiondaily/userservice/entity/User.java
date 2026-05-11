@@ -10,8 +10,11 @@ package com.nutritiondaily.userservice.entity;
  * and other user-related features in an application.
  */
 public class User {
+
     private String username;
     private String password;
+    private String email;
+
 
     public User() {
     }
