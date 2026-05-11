@@ -60,7 +60,7 @@ Cloud | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Even
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
 🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
-🏆 **Oracle Cloud Infrastructure 2025 – *
+🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
 
 
 
