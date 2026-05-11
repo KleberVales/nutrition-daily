@@ -52,6 +52,6 @@ Email: klebervales.dev@gmail.com
 
 Java & Spring Software Engineer
 
-Cloud | DevOps | 
+Cloud | DevOps | Git/Github | 
 
 
