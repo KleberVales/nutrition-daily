@@ -46,7 +46,7 @@ com.nutritiondaily
 
 ## ✉️ Contact
 
-Email: klebervales.dev@gmail.com
+Email: klebervales.dev@gmail.com\
 LinkedIn: www.linkedin.com 
 
 **Kleber Vales**
