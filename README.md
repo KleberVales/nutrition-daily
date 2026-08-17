@@ -2,8 +2,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 A modular Java application designed to help users organize and track their daily nutrition in a structured, domain-driven way.
 This project applies DDD (Domain-Driven Design) concepts and modern backend architecture principles to build a scalable and maintainable system.
