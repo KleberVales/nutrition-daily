@@ -19,27 +19,33 @@ Nutrition Daily helps users:
 
 ```text
 
-com.nutritiondaily
-
-├── user
-│   ├── domain
-│   ├── application
-│   ├── infrastructure
-│   └── api
+nutrition
 │
-├── meal
-│   ├── domain
-│   ├── application
-│   ├── infrastructure
-│   └── api
+├── domain
+│   └── model
+│       └── DailyNutrition.java
 │
-├── food
-│   ├── domain
-│   ├── application
-│   ├── infrastructure
-│   └── api
+├── application
+│   ├── port
+│   │   ├── in
+│   │   │   └── RegisterMealUseCase.java
+│   │   │
+│   │   └── out
+│   │       └── DailyNutritionRepository.java
+│   │
+│   └── service
+│       └── RegisterMealService.java
 │
-└── shared
+└── adapter
+    ├── in
+    │   └── web
+    │       └── NutritionController.java
+    │
+    └── out
+        └── persistence
+            ├── DailyNutritionJpaEntity.java
+            ├── SpringDataDailyNutritionRepository.java
+            └── DailyNutritionPersistenceAdapter.java
 
 ```
 ---
