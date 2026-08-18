@@ -1,0 +1,13 @@
+
+spring:
+  application:
+    name: nutrition-daily
+  datasource:
+    url: jdbc:postgresql://localhost:5432/nutrition_dayli
+    username: postgres
+    password: postgres
+
+  jpa:
+    hibernate:
+    ddl-auto: update
+    show-sql: true
