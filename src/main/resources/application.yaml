@@ -4,8 +4,8 @@ spring:
     name: nutrition-daily
   datasource:
     url: jdbc:postgresql://localhost:5432/nutrition_dayli
-    username: postgres
-    password: postgres
+    username: nutrition_user
+    password: nutrition_password
 
   jpa:
     hibernate:

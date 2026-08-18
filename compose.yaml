@@ -4,9 +4,9 @@ services:
     image: postgres:17
     container_name: nutrition-postgres
     environment:
-      POSTGRES_DB: nutrition_dayli
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: nutrition_daily
+      POSTGRES_USER: nutrition_user
+      POSTGRES_PASSWORD: nutrition_password
     ports:
       - "5432:5432"
     volumes:
