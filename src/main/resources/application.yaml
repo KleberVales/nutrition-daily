@@ -3,7 +3,7 @@ spring:
   application:
     name: nutrition-daily
   datasource:
-    url: jdbc:postgresql://localhost:5432/nutrition_dayli
+    url: jdbc:postgresql://localhost:5432/nutrition_daily
     username: nutrition_user
     password: nutrition_password
 
