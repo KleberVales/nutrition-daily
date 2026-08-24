@@ -8,6 +8,7 @@ import java.time.LocalDate;
 import java.util.Optional;
 
 @Component
+
 public class DailyNutritionPersistenceAdapter
         implements DailyNutritionRepository {
 
