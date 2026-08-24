@@ -1,0 +1,30 @@
+services:
+
+  postgres:
+    image: postgres:17
+    container_name: nutrition-postgres
+    environment:
+      POSTGRES_DB: nutrition_daily
+      POSTGRES_USER: nutrition_user
+      POSTGRES_PASSWORD: nutrition_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nutrition-app
+    depends_on:
+      - postgres
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/nutrition_daily
+      SPRING_DATASOURCE_USERNAME: nutrition_user
+      SPRING_DATASOURCE_PASSWORD: nutrition_password
+
+volumes:
+  postgres_data:
