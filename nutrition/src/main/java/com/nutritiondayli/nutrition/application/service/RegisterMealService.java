@@ -2,7 +2,7 @@ package com.nutritiondayli.nutrition.application.service;
 
 import com.nutritiondayli.nutrition.application.port.in.RegisterMealUseCase;
 import com.nutritiondayli.nutrition.application.port.out.DailyNutritionRepository;
-import com.nutritiondayli.nutrition.domain.model.DailyNutrition;
+import com.nutritiondayli.nutrition.domain.DailyNutrition;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -12,32 +12,35 @@ import java.time.LocalDate;
 @Transactional
 public class RegisterMealService implements RegisterMealUseCase {
 
-    private final DailyNutritionRepository dailyNutritionRepository;
+    private final DailyNutritionRepository repository;
 
     public RegisterMealService(
-            DailyNutritionRepository dailyNutritionRepository
+            DailyNutritionRepository repository
     ) {
-        this.dailyNutritionRepository = dailyNutritionRepository;
+        this.repository = repository;
     }
 
     @Override
-    public RegisterMealResult registerMeal(RegisterMealCommand command) {
+    public RegisterMealResult registerMeal(
+            RegisterMealCommand command
+    ) {
 
         LocalDate today = LocalDate.now();
 
-        DailyNutrition dailyNutrition =
-                dailyNutritionRepository
-                        .findByUserIdAndDate(command.userId(), today)
-                        .orElseThrow(() ->
-                                new IllegalStateException(
-                                        "Daily nutrition not found"
-                                )
-                        );
+        DailyNutrition nutrition =
+                repository.findByUserIdAndDate(
+                        command.userId(),
+                        today
+                ).orElseThrow(
+                        () -> new IllegalStateException(
+                                "Daily nutrition not found"
+                        )
+                );
 
-        dailyNutrition.addCalories(command.calories());
+        nutrition.addCalories(command.calories());
 
         DailyNutrition saved =
-                dailyNutritionRepository.save(dailyNutrition);
+                repository.save(nutrition, today);
 
         return new RegisterMealResult(
                 saved.getUserId(),

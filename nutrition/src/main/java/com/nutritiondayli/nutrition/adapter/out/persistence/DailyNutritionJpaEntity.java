@@ -1,6 +1,5 @@
 package com.nutritiondayli.nutrition.adapter.out.persistence;
 
-import com.nutritiondayli.nutrition.domain.model.DailyNutrition;
 import jakarta.persistence.*;
 
 import java.time.LocalDate;
@@ -37,35 +36,17 @@ public class DailyNutritionJpaEntity {
     }
 
     public DailyNutritionJpaEntity(
+            Long id,
             Long userId,
             LocalDate date,
             int calorieGoal,
             int caloriesConsumed
     ) {
+        this.id = id;
         this.userId = userId;
         this.date = date;
         this.calorieGoal = calorieGoal;
         this.caloriesConsumed = caloriesConsumed;
-    }
-
-    public static DailyNutritionJpaEntity fromDomain(
-            DailyNutrition dailyNutrition
-    ) {
-        return new DailyNutritionJpaEntity(
-                dailyNutrition.getUserId(),
-                dailyNutrition.getDate(),
-                dailyNutrition.getCalorieGoal(),
-                dailyNutrition.getCaloriesConsumed()
-        );
-    }
-
-    public DailyNutrition toDomain() {
-        return new DailyNutrition(
-                userId,
-                date,
-                calorieGoal,
-                caloriesConsumed
-        );
     }
 
     public Long getId() {
@@ -86,5 +67,9 @@ public class DailyNutritionJpaEntity {
 
     public int getCaloriesConsumed() {
         return caloriesConsumed;
+    }
+
+    public void setCaloriesConsumed(int caloriesConsumed) {
+        this.caloriesConsumed = caloriesConsumed;
     }
 }

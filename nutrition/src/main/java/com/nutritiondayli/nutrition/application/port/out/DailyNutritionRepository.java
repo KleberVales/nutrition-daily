@@ -1,6 +1,6 @@
 package com.nutritiondayli.nutrition.application.port.out;
 
-import com.nutritiondayli.nutrition.domain.model.DailyNutrition;
+import com.nutritiondayli.nutrition.domain.DailyNutrition;
 
 import java.time.LocalDate;
 import java.util.Optional;
@@ -12,5 +12,8 @@ public interface DailyNutritionRepository {
             LocalDate date
     );
 
-    DailyNutrition save(DailyNutrition dailyNutrition);
+    DailyNutrition save(
+            DailyNutrition dailyNutrition,
+            LocalDate date
+    );
 }
