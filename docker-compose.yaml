@@ -1,5 +1,4 @@
 services:
-
   postgres:
     image: postgres:17
     container_name: nutrition-postgres
@@ -8,7 +7,7 @@ services:
       POSTGRES_USER: nutrition_user
       POSTGRES_PASSWORD: nutrition_password
     ports:
-      - "5432:5432"
+      - "5432:5432"  # <-- THIS IS MISSING! Add it
     volumes:
       - postgres_data:/var/lib/postgresql/data
 
