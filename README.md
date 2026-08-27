@@ -57,7 +57,7 @@ Email: klebervales.dev@gmail.com\
 
 Java & Spring Software Engineer
 
-Microservices | Cloud AWS / OCI | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Event-driven Architecture
+Microservices | Cloud AWS / OCI | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Event-driven Architecture |
 
 🎓 **Bachelor's Degree in Computer Science** | 🎓 **MBA in Web Software Development**
 
