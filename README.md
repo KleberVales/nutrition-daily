@@ -32,7 +32,7 @@ com.nutritiondaily
 │   ├── adapter
 │   
 │
-├── meal
+├── nutrition
 │   ├── domain
 │   ├── application
 │   ├── adapter
