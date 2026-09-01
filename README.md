@@ -29,8 +29,8 @@ com.nutritiondaily
 ├── user
 │   ├── domain
 │   ├── application
-│   ├── infrastructure
-│   └── api
+│   ├── adapter
+│   
 │
 ├── meal
 │   ├── domain
