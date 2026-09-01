@@ -26,10 +26,8 @@ Nutrition Daily helps users:
 
 com.nutritiondaily
 
-├── user
-│   ├── domain
-│   ├── application
-│   ├── adapter
+├── app
+│   ├── src
 │   
 │
 ├── nutrition
