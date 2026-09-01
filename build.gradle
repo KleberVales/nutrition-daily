@@ -4,7 +4,7 @@ plugins{
 
 group = 'com.kvales'
 version = '0.0.1-SNAPSHOT'
-description = 'test3'
+description = 'nutrition-daily'
 
 java {
     toolchain {

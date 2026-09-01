@@ -1,3 +1,4 @@
 rootProject.name = 'nutrition-daily'
 
 include 'app'
+include 'nutrition'
