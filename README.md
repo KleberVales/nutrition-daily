@@ -27,7 +27,7 @@ Nutrition Daily helps users:
 com.nutritiondaily
 
 ├── app
-│   ├── src
+│   └── src
 │   
 │
 ├── nutrition
