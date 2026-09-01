@@ -44,7 +44,7 @@ com.nutritiondaily
 │   ├── infrastructure
 │   └── api
 │
-├── user
+├── auth
 │   ├── domain
 │   ├── application
 │   ├── infrastructure
