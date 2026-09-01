@@ -36,10 +36,10 @@ com.nutritiondaily
 │   └── adapter
 │   
 │
-├── food
+├── user
 │   ├── domain
 │   ├── application
-│   ├── adapter
+│   └── adapter
 │   
 │
 ├── auth
