@@ -58,7 +58,7 @@ Email: klebervales.dev@gmail.com
 
 **Kleber Vales**
 
-Java & Spring Software Engineer
+Java / Spring with AI Agent Engineer
 
 Microservices | Cloud AWS / OCI | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Event-driven Architecture |
 
