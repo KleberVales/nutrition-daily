@@ -1,10 +1,11 @@
+
 plugins {
     id 'java'
-    id 'org.springframework.boot' version '3.2.4'
+    id 'org.springframework.boot' version '3.2.4'   // Versao estável do Spring
     id 'io.spring.dependency-management' version '1.1.7'
 }
 
-group = 'com.nutritiondaily'
+group = 'com.kvales'
 version = '0.0.1-SNAPSHOT'
 description = 'nutrition-daily'
 
@@ -18,23 +19,27 @@ repositories {
     mavenCentral()
 }
 
+
 dependencies {
+
     implementation 'org.springframework.boot:spring-boot-starter'
-    implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    // Spring Data JPA
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 
-    runtimeOnly 'org.postgresql:postgresql'
+    // PostgreSQL
+    runtimeOnly 'org.postgresql:postgresql:42.7.3'
 
-    compileOnly 'org.projectlombok:lombok'
-    annotationProcessor 'org.projectlombok:lombok'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
 
-    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'org.junit.jupiter:junit-jupiter'
 
     implementation project(':nutrition')
     implementation project(':user')
-    implementation project(':auth')
+
 
 }
+
 
 tasks.named('test') {
     useJUnitPlatform()

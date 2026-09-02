@@ -25,10 +25,26 @@ Nutrition Daily helps users:
 ```text
 
 nutrition
+com.nutritiondaily
+
+├── app
+│   └── src
+│   
+│
+├── nutrition
+│   ├── domain
+│   ├── application
+│   └── adapter
+│   
 │
 ├── domain
 │   └── model
 │       └── DailyNutrition.java
+├── user
+│   ├── domain
+│   ├── application
+│   └── adapter
+│   
 │
 ├── application
 │   ├── port
@@ -51,19 +67,25 @@ nutrition
             ├── DailyNutritionJpaEntity.java
             ├── SpringDataDailyNutritionRepository.java
             └── DailyNutritionPersistenceAdapter.java
+├── auth
+│   ├── domain
+│   ├── application
+│   ├── infrastructure
+│   └── api
+└── shared
 
 ```
 ---
 
 ## ✉️ Contact
 
-Email: klebervales.dev@gmail.com\
+Email: klebervales.dev@gmail.com
 
 **Kleber Vales**
 
-Java & Spring Software Engineer
+Java / Spring with AI Agent Engineer
 
-Microservices | Cloud AWS / OCI | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Event-driven Architecture
+Microservices | Cloud AWS / OCI | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Event-driven Architecture |
 
 🎓 **Bachelor's Degree in Computer Science** | 🎓 **MBA in Web Software Development**
 

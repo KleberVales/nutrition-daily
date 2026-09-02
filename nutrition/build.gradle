@@ -6,6 +6,7 @@ plugins {
 
 group = 'com.nutritiondaily'
 version = '0.0.1-SNAPSHOT'
+description = 'nutrition-daily'
 
 java {
     toolchain {
