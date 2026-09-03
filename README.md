@@ -39,7 +39,7 @@ com.nutritiondaily
 │
 ├── domain
 │   └── model
-│       └── DailyNutrition.java
+│      
 ├── user
 │   ├── domain
 │   ├── application
