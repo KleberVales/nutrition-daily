@@ -36,6 +36,7 @@ dependencies {
 
     implementation project(':nutrition')
     implementation project(':user')
+    implementation project(':auth')
 
 
 }
