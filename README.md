@@ -49,7 +49,6 @@ com.nutritiondaily
 │   └── service
 │
 └── adapter
-    ├── in
 
 ```
 ---
