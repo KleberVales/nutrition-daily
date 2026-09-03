@@ -47,7 +47,6 @@ com.nutritiondaily
 │   │       └── DailyNutritionRepository.java
 │   │
 │   └── service
-│       └── RegisterMealService.java
 │
 └── adapter
     ├── in
