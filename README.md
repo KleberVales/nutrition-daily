@@ -55,7 +55,6 @@ com.nutritiondaily
     │
     └── out
         └── persistence
-            ├── DailyNutritionJpaEntity.java│   ├── domain
 │   ├── application
 │   ├── infrastructure
 │   └── api
