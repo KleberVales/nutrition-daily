@@ -55,9 +55,7 @@ com.nutritiondaily
     │
     └── out
         └── persistence
-            ├── DailyNutritionJpaEntity.java
-            ├── SpringDataDailyNutritionRepository.java
-│   ├── domain
+            ├── DailyNutritionJpaEntity.java│   ├── domain
 │   ├── application
 │   ├── infrastructure
 │   └── api
