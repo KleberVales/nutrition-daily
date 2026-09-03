@@ -54,7 +54,6 @@ com.nutritiondaily
     │       └── NutritionController.java
     │
     └── out
-        └── persistence
 │   ├── application
 │   ├── infrastructure
 │   └── api
