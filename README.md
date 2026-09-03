@@ -40,7 +40,6 @@ com.nutritiondaily
 ├── user 
 │   
 │
-├── application
 
 ```
 ---
