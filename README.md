@@ -35,10 +35,7 @@ com.nutritiondaily
 │   ├── domain
 │   ├── application
 │   └── adapter
-│   
-│
-├── domain
-│   
+│    
 │      
 ├── user
 │   
