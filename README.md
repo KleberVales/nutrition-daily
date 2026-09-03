@@ -25,7 +25,7 @@ Nutrition Daily helps users:
 ```text
 
 nutrition
-com.nutritiondaily
+com.kvales
 
 ├── app
 │   └── src
