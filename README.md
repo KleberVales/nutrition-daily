@@ -51,8 +51,6 @@ com.nutritiondaily
 └── adapter
     ├── in
     │   └── web
-    │       └── NutritionController.java
-    │
 
 ```
 ---
