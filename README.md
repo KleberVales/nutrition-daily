@@ -56,7 +56,6 @@ com.nutritiondaily
     └── out
 │   ├── application
 │   ├── infrastructure
-│   └── api
 
 ```
 ---
