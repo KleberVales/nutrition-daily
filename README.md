@@ -44,6 +44,7 @@ com.nutritiondaily
 └── auth
     ├── adapter
     ├── application
+    └── config
 
 ```
 ---
