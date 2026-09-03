@@ -31,15 +31,10 @@ com.nutritiondaily
 │   └── src
 │   
 │
-├── nutrition
-│   ├── domain
-│   ├── application
-│   └── adapter
-│    
-│      
-├── user 
-│   
-│
+└── nutrition
+    ├── domain
+    ├── application
+    └── adapter
 
 ```
 ---
