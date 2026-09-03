@@ -41,7 +41,6 @@ com.nutritiondaily
 │   
 │
 ├── application
-│   │   ├── in
 │   │   │   └── RegisterMealUseCase.java
 │   │   │
 │   │   └── out
