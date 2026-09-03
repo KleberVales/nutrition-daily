@@ -44,7 +44,6 @@ com.nutritiondaily
 │   │   │   └── RegisterMealUseCase.java
 │   │   │
 │   │   └── out
-│   │       └── DailyNutritionRepository.java
 
 ```
 ---
