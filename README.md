@@ -37,7 +37,7 @@ com.nutritiondaily
 │   └── adapter
 │
 └── user
-
+      ├── domain
 
 ```
 ---
