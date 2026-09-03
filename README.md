@@ -38,7 +38,7 @@ com.nutritiondaily
 │   
 │
 ├── domain
-│   └── model
+│   
 │      
 ├── user
 │   ├── domain
