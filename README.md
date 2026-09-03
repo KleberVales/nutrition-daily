@@ -31,8 +31,8 @@ com.nutritiondaily
 │   └── src
 │   
 │
-└── nutrition
-    ├── domain
+├── nutrition
+│   ├── domain
     ├── application
     └── adapter
 
