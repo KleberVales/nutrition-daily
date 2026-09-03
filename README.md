@@ -57,7 +57,6 @@ com.nutritiondaily
 │   ├── application
 │   ├── infrastructure
 │   └── api
-└── shared
 
 ```
 ---
