@@ -45,10 +45,6 @@ com.nutritiondaily
 │   │   │
 │   │   └── out
 │   │       └── DailyNutritionRepository.java
-│   │
-│   └── service
-│
-└── adapter
 
 ```
 ---
