@@ -53,7 +53,6 @@ com.nutritiondaily
     │   └── web
     │       └── NutritionController.java
     │
-    └── out
 
 ```
 ---
