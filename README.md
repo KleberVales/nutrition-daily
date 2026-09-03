@@ -37,14 +37,10 @@ com.nutritiondaily
 │   └── adapter
 │    
 │      
-├── user
-│   
-│   
-│   
+├── user 
 │   
 │
 ├── application
-│   ├── port
 │   │   ├── in
 │   │   │   └── RegisterMealUseCase.java
 │   │   │
