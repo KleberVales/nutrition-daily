@@ -24,7 +24,7 @@ Nutrition Daily helps users:
 
 ```text
 
-nutrition
+daily-nutrition
 com.kvales
 
 ├── app
