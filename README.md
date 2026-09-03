@@ -29,7 +29,7 @@ com.nutritiondaily
 
 ├── app
 │   └── src
-│   
+│        └── Main.java
 │
 ├── user
 │   ├── domain
