@@ -50,7 +50,6 @@ com.nutritiondaily
 │
 └── adapter
     ├── in
-    │   └── web
 
 ```
 ---
