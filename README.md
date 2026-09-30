@@ -51,7 +51,7 @@ com.kvales
 
 ## ✉️ Contact
 
-LinkedIn 
+LinkedIn: LinkedIn.com 
 Email: klebervales.dev@gmail.com
 
 **Kleber Vales**
