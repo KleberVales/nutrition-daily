@@ -54,7 +54,7 @@ com.kvales
 LinkedIn: LinkedIn.com/in/kleber-vales
 Email: klebervales.dev@gmail.com
 
-**Kleber Vales**
+### Kleber Vales
 
 Java / Spring with AI Agent Engineer
 
