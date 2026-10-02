@@ -58,7 +58,7 @@ E-mail: klebervales.dev@gmail.com
 
 **Java & Spring Software Engineer**
 
-| Cloud | DevOps | Architectures | Generative AI |
+| Cloud | DevOps | Architectures | Generative AI | Methodologies |
 
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
