@@ -207,12 +207,6 @@ Suggestions and pull requests are welcome.
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
----
-
 ### ✉️ Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-vales)  
