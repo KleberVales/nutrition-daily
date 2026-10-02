@@ -213,18 +213,10 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
-## 👤 Author
-
-**Kleber Vales** — Java & Spring Software Engineer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-vales)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klebervales.dev@gmail.com)
----
-
 ### ✉️ Contact
 
-LinkedIn: www.linkedin.com/in/kleber-vales  
-E-mail: klebervales.dev@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-vales)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klebervales.dev@gmail.com)
 
 ### Kleber Vales
 
