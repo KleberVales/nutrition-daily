@@ -51,16 +51,17 @@ com.kvales
 
 ### ✉️ Contact
 
-LinkedIn: www.linkedin.com/in/kleber-vales/
+LinkedIn: www.linkedin.com/in/kleber-vales  
 E-mail: klebervales.dev@gmail.com
 
 ### Kleber Vales
 
 **Java & Spring Software Engineer**
 
-Microservices | Cloud AWS / OCI | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Event-driven Architecture |
+| Cloud |
 
-🎓 **Bachelor's Degree in Computer Science** | 🎓 **MBA in Web Software Development**
+🎓 **Bachelor's Degree in Computer Science**  
+🎓 **MBA in Web Software Development**
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
