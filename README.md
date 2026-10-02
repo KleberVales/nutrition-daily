@@ -63,6 +63,7 @@ E-mail: klebervales.dev@gmail.com
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
 
+**Certifications**  
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
