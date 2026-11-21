@@ -209,6 +209,7 @@ Suggestions and pull requests are welcome.
 ### Kleber Vales
 
 Email: klebervales.dev@gmail.com  
+LinkedIn:
 
 **Java & Spring Software Engineer**
 
