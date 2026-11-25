@@ -221,6 +221,7 @@ LinkedIn: www.linkedin.com/in/kleber-vales
 **Certifications**  
 
 🏆 **OCI 2025 – DevOps Professional | Generative AI Professional**  
+🏆 **OCI Architect Associate**
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft MTA – Software Development Fundamentals**  
 🏆 **Scrum Fundamentals Certified (SFC™)**  
