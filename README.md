@@ -220,7 +220,7 @@ LinkedIn: www.linkedin.com/in/kleber-vales
 
 **Certifications**  
 
-🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
+🏆 **OCI 2025 – DevOps Professional**  
 🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**  
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft MTA – Software Development Fundamentals**  
