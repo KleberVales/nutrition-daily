@@ -1,0 +1,7 @@
+name: CI - Nutrition Daily
+
+on:
+  push:
+    branches: [ "main" ] 
+  pull_request:
+    branches: [ "main" ]
